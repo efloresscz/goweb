@@ -1,0 +1,25 @@
+/* GoWeb */
+/* TEAM */
+	Creator:Erwin Flores 
+	Contact:floreserwinscz[at]gmail.com
+	From:Santa Cruz city, Bolivia
+
+	Creator:Oliver Pinto
+	Contact:opinto[at]gmail.com
+	From:Santa Cruz city, Bolivia
+
+	Creator:Oliver Pinto
+	Contact:opinto[at]gmail.com
+	From:Santa Cruz city, Bolivia
+/* IN MEMORIAL */	
+	
+/* THANKS */
+	Axon http://www.axon.com.bo
+/* SITE */	
+	Last update: 2014/30/09
+	Language: Español
+	Standars: HTML5, CSS3, Javascript
+	Components: jQuery
+	Software: SublimeText3, Adobe Suite CS
+
+
